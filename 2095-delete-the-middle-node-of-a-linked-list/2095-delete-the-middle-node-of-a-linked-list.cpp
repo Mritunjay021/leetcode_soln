@@ -16,7 +16,6 @@ public:
         return nullptr;
         ListNode* fast=head;
         ListNode* slow=head;
-        
         ListNode* prev =NULL;
         while(fast && fast->next)
         {
