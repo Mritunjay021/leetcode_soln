@@ -2,24 +2,20 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) 
     {
-        int f=0,mx=0;
-        char c;string sub="";
-        for(int i=0;i<s.length();i++)
-        {
-            for(int j=i;j<s.length();j++)
-            {
-                c=s[j];
-                auto it=s.substr(i,j-i).find(c);
-                if(j-i==0 || it==sub.npos)
-                {
-                    f++;
-                }
-                else 
-                break;
-            }
-            mx=max(f,mx);
-            f=0;
-        }
-        return mx;
+        vector < int > mpp(256, -1);
+
+      int left = 0, right = 0;
+      int n = s.size();
+      int len = 0;
+      while (right < n) {
+        if (mpp[s[right]] != -1)
+          left = max(mpp[s[right]] + 1, left);
+
+        mpp[s[right]] = right;
+
+        len = max(len, right - left + 1);
+        right++;
+      }
+      return len;
     }
 };
