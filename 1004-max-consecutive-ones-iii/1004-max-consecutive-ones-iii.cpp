@@ -14,11 +14,8 @@ public:
                 nz--;
                 l++;
             }
-            if(nz<=k)
-            {
-                len=r-l+1;
-                mx=max(mx,len);
-            }
+            len=r-l+1;
+            mx=max(mx,len);
             r++;
         }
         return mx;
