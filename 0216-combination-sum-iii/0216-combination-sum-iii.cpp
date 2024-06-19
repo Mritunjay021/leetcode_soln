@@ -3,14 +3,15 @@ public:
     vector<vector<int>> re;
     void func(vector<int>& ls,vector<int>& ds,int i,int k,int n)
     {
-        if(i>=9)
-        return;
+        
         if(ds.size()==k)
         {
             if(n==0)
             re.push_back(ds);
             return ;
         }
+        if(i>=9)
+        return;
         if(ls[i]<=n)
         {
             ds.push_back(ls[i]);
