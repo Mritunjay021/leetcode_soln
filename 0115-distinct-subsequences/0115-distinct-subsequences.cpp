@@ -20,7 +20,8 @@ public:
     {
         int l1=s.size();
         int l2=t.size();
-        vector<vector<int>> dp(l1+1,vector<int>(l2+1,-1));
+        vector<vector<int>> dp(l1,vector<int>(l2,-1));
         return f(s,t,l1-1,l2-1,dp);
+        //for(int i=0;i<l1;i++)
     }
 };
