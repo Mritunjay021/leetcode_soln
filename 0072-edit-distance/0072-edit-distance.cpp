@@ -14,7 +14,7 @@ public:
         if(s[i]==t[j])
         return f(s,t,i-1,j-1,dp);
 
-        return min(1+f(s,t,i-1,j,dp),min(1+f(s,t,i,j-1,dp),1+f(s,t,i-1,j-1,dp)));
+        return 1+min(f(s,t,i-1,j,dp),min(f(s,t,i,j-1,dp),f(s,t,i-1,j-1,dp)));
     }
 
     int minDistance(string s, string t) 
