@@ -15,7 +15,7 @@ public:
             {
                 dfs(it,node,vis,adj,tin,low,bridges);
                 low[node]=min(low[node],low[it]);
-                if(low[it]>tin[node])
+                if(low[it]>it[node])
                 bridges.push_back({it,node});
             }
             else
