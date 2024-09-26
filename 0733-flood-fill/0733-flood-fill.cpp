@@ -19,6 +19,7 @@ public:
         int dc[]={0,1,0,-1};
         queue<pair<int,int>> q;
         q.push({sr,sc});
+        int clr=img[sr][sc];
         while(!q.empty())
         {
             int row=q.front().first;
@@ -28,7 +29,7 @@ public:
             {
                 int nrow=row+dr[i];
                 int ncol=col+dc[i];
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && img[nrow][ncol]!=0 && vis[nrow][ncol]==0)
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && img[nrow][ncol]==clr && vis[nrow][ncol]==0)
                 {
                     grid[nrow][ncol]=color;
                     q.push({nrow,ncol});
