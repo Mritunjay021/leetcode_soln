@@ -15,6 +15,8 @@ public:
         int s=0; 
         if(n==0)
         return 0;
+        if(n==1)
+        return 1;
         return func(n,0,1,1,1); 
     }
 };
