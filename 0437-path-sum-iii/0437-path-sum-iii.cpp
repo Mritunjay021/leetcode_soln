@@ -13,7 +13,7 @@ class Solution
 {
 public:
     
-    int countPaths(TreeNode* root, long sum) {
+    int func(TreeNode* root, long sum) {
         if (!root) 
         return 0;
 
@@ -21,8 +21,8 @@ public:
         if (root->val == sum) 
         re++;  
         
-        re += countPaths(root->left, sum - root->val);
-        re += countPaths(root->right, sum - root->val);
+        re += func(root->left, sum - root->val);
+        re += func(root->right, sum - root->val);
 
         return re;
     }
@@ -32,6 +32,6 @@ public:
         if (!root) 
         return 0;
 
-        return countPaths(root,s)+pathSum(root->left,s)+pathSum(root->right,s);
+        return func(root,s)+pathSum(root->left,s)+pathSum(root->right,s);
     }
 };
