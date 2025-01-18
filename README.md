@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Mritunjay021/leetcode_soln/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Mritunjay021/leetcode_soln/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Mritunjay021/leetcode_soln/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0073-set-matrix-zeroes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mritunjay021/leetcode_soln/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Mritunjay021/leetcode_soln/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mritunjay021/leetcode_soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
