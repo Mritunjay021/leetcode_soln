@@ -3,31 +3,24 @@ public:
     double findMedianSortedArrays(vector<int>& n1, vector<int>& n2) 
     {
         int m = n1.size(), n = n2.size();
-        int i = 0, j = 0, k = 0;
-        vector<int> re;
+        int p1 = 0, p2 = 0;
+        int current = 0, previous = 0;
+        int totalSize = m + n;
+        int md = totalSize / 2;
 
-        while (i < m && j < n) 
-        {
-            if (n1[i] < n2[j]) 
-                re.push_back(n1[i++]);
-            else 
-                re.push_back(n2[j++]);
+        for (int i = 0; i <= md; i++) {
+            previous = current;
+            if (p1 < m && (p2 >= n || n1[p1] <= n2[p2])) {
+                current = n1[p1++];
+            } else {
+                current = n2[p2++];
+            }
         }
 
-        while (i < m) 
-            re.push_back(n1[i++]);
-
-        while (j < n) 
-            re.push_back(n2[j++]);
-
-        int totalSize = m + n;
-        if (totalSize % 2 == 1) 
-        {
-            return re[totalSize / 2];
-        } 
-        else 
-        {
-            return (re[totalSize / 2] + re[(totalSize / 2) - 1]) / 2.0;
+        if (totalSize % 2 == 0) {
+            return (current + previous) / 2.0;
+        } else {
+            return current;
         }
     }
 };
