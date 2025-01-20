@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Mritunjay021/leetcode_soln/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Mritunjay021/leetcode_soln/tree/master/0035-search-insert-position) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Mritunjay021/leetcode_soln/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mritunjay021/leetcode_soln/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/Mritunjay021/leetcode_soln/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0540-single-element-in-a-sorted-array) |
