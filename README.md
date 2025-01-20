@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [0777-toeplitz-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Mritunjay021/leetcode_soln/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mritunjay021/leetcode_soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mritunjay021/leetcode_soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Mritunjay021/leetcode_soln/tree/master/0657-robot-return-to-origin) |
+| [0898-transpose-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mritunjay021/leetcode_soln/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Mritunjay021/leetcode_soln/tree/master/1791-richest-customer-wealth) |
 ## Math
 |  |
