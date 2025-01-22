@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mritunjay021/leetcode_soln/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mritunjay021/leetcode_soln/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/Mritunjay021/leetcode_soln/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0140-word-break-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mritunjay021/leetcode_soln/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0074-search-a-2d-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Mritunjay021/leetcode_soln/tree/master/1791-richest-customer-wealth) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mritunjay021/leetcode_soln/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/Mritunjay021/leetcode_soln/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Mritunjay021/leetcode_soln/tree/master/0907-koko-eating-bananas) |
