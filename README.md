@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [0889-buddy-strings](https://github.com/Mritunjay021/leetcode_soln/tree/master/0889-buddy-strings) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Mritunjay021/leetcode_soln/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/Mritunjay021/leetcode_soln/tree/master/1508-longest-happy-prefix) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Mritunjay021/leetcode_soln/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mritunjay021/leetcode_soln/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
