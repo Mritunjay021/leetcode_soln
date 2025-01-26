@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/Mritunjay021/leetcode_soln/tree/master/0889-buddy-strings) |
 | [1508-longest-happy-prefix](https://github.com/Mritunjay021/leetcode_soln/tree/master/1508-longest-happy-prefix) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mritunjay021/leetcode_soln/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mritunjay021/leetcode_soln/tree/master/0780-max-chunks-to-make-sorted) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
