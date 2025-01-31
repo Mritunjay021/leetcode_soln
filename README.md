@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mritunjay021/leetcode_soln/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Mritunjay021/leetcode_soln/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0088-merge-sorted-array) |
+| [0443-string-compression](https://github.com/Mritunjay021/leetcode_soln/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mritunjay021/leetcode_soln/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mritunjay021/leetcode_soln/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Mritunjay021/leetcode_soln/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Mritunjay021/leetcode_soln/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Mritunjay021/leetcode_soln/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/Mritunjay021/leetcode_soln/tree/master/0657-robot-return-to-origin) |
 | [0889-buddy-strings](https://github.com/Mritunjay021/leetcode_soln/tree/master/0889-buddy-strings) |
