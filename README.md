@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mritunjay021/leetcode_soln/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Mritunjay021/leetcode_soln/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
 | [0443-string-compression](https://github.com/Mritunjay021/leetcode_soln/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mritunjay021/leetcode_soln/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mritunjay021/leetcode_soln/tree/master/0780-max-chunks-to-make-sorted) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Mritunjay021/leetcode_soln/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
 | [0390-elimination-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/0390-elimination-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Mritunjay021/leetcode_soln/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
 | [0860-design-circular-queue](https://github.com/Mritunjay021/leetcode_soln/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
