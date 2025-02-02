@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/0390-elimination-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Mritunjay021/leetcode_soln/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/Mritunjay021/leetcode_soln/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
