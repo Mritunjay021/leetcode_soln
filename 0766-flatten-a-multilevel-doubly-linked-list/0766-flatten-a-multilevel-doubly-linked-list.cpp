@@ -14,29 +14,31 @@ public:
     Node* flatten(Node* head) {
         Node* curr = head;
         
-        while(curr != nullptr) {
-            if(curr->child != nullptr) {
-                Node* tail = findTail(curr->child);
-                
-                if(curr->next != nullptr) {
-                    curr->next->prev = tail;
+        while(curr != nullptr) 
+        {
+            if(curr->child != nullptr) 
+            {
+                Node* next=curr->next;
+                Node* child = flatten(curr->child);
+
+                curr->next=child;
+                child->prev=curr;
+
+                Node * tail=child;
+                while(tail->next)
+                {
+                    tail=tail->next;
                 }
-                
-                tail->next = curr->next;
-                curr->next = curr->child;
-                curr->child->prev = curr;
-                curr->child = nullptr;
+                if(next)
+                {
+                    tail->next=next;
+                    next->prev=tail;
+                }
+                curr->child=nullptr;
             }
             curr = curr->next;
         }
         
         return head;
-    }
-    
-    Node* findTail(Node* child) {
-        while(child->next != nullptr) {
-            child = child->next;
-        }
-        return child;
     }
 };
