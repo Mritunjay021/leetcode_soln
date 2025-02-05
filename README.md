@@ -280,10 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Iterator
@@ -324,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mritunjay021/leetcode_soln/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
