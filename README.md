@@ -285,12 +285,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Iterator
 |  |
@@ -334,9 +336,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
