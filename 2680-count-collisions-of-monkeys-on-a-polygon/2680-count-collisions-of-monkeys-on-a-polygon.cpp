@@ -1,23 +1,27 @@
 class Solution {
 public:
     int mod=1e9+7;
-    long func(int a,int b)
+
+    long long func(long long x,long long n)
     {
-        if(b==0)
-        return 1;
+        long long re=1;
 
-        long t=func(a,b/2);
-        long ans=t*t%mod;
+        while(n>0)
+        {
+            if(n&1)
+            {
+                re=(re*x)%mod;
+            }
 
-        if(b%2==1)
-        ans=ans*a%mod;
-
-        return ans;
+            x=(x*x)%mod;
+            n=n>>1;
+        }
+        
+        return re;
     }
 
     int monkeyMove(int n) 
     {
-        int re=(int)func(2,n)%mod;
-        return (re+mod-2)%mod;    
+        return int((func(2,n)-2+mod)%mod);
     }
 };
