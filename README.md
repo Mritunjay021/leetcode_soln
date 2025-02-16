@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay021/leetcode_soln/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mritunjay021/leetcode_soln/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mritunjay021/leetcode_soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mritunjay021/leetcode_soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/1646-kth-missing-positive-number) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Enumeration
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Mritunjay021/leetcode_soln/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay021/leetcode_soln/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Mritunjay021/leetcode_soln/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mritunjay021/leetcode_soln/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Ordered Set
@@ -358,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Doubly-Linked List
