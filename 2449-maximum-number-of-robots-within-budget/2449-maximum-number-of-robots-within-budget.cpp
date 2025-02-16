@@ -1,43 +1,30 @@
 class Solution {
 public:
-    int maximumRobots(vector<int>& ct, vector<int>& rc, long long b) {
-        int i = 0, j = 0;
+    int maximumRobots(vector<int>& chargeTimes, vector<int>& runningCosts, long long budget) {
+        deque<int> dq;
+        int l = 0;
+        int n = runningCosts.size();
+        long long runningSum = 0;
+        int maxRobots = 0;
 
-        int n = ct.size();
-        long long s = 0;  
-        int k = 0;
-
-        deque<int> dq;    
-
-        while(i < n) 
-        {
-            while(!dq.empty() && ct[dq.back()] <= ct[i]) 
-            {
+        for(int r = 0; r < n; r++){
+            while(!dq.empty() && chargeTimes[dq.back()] < chargeTimes[r]){
                 dq.pop_back();
             }
+            dq.push_back(r);
 
-            dq.push_back(i);
-            s += rc[i];
+            runningSum += runningCosts[r];
+            //int expense = chargeTimes[dq.front()] + (r - l + 1) * runningSum;
+            long long expense = chargeTimes[dq.front()] + (long long)(r - l + 1) * runningSum;
 
-             while(j <= i) 
-             {
-                while(!dq.empty() && dq.front() < j) 
-                {
-                    dq.pop_front();
-                }
-                
-                if(dq.empty() || (ct[dq.front()] + (i-j+1)*s) <= b) 
-                {
-                    break;
-                }
-                
-                s -= rc[j];
-                j++;
+            if(expense > budget){
+                runningSum -= runningCosts[l];
+                if(dq.front() == l) dq.pop_front();
+                l++;
             }
 
-            k = max(k, i-j+1);
-            i++;  
+            maxRobots = max(maxRobots, r - l + 1);
         }
-        return k;
+        return maxRobots;
     }
 };
