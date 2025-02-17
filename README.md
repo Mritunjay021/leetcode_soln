@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mritunjay021/leetcode_soln/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Mritunjay021/leetcode_soln/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Mritunjay021/leetcode_soln/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Mritunjay021/leetcode_soln/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Mritunjay021/leetcode_soln/tree/master/0242-valid-anagram) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/Mritunjay021/leetcode_soln/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Mritunjay021/leetcode_soln/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Mritunjay021/leetcode_soln/tree/master/0139-word-break) |
