@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Mritunjay021/leetcode_soln/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Mritunjay021/leetcode_soln/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Mritunjay021/leetcode_soln/tree/master/0657-robot-return-to-origin) |
+| [0763-special-binary-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0763-special-binary-string) |
 | [0889-buddy-strings](https://github.com/Mritunjay021/leetcode_soln/tree/master/0889-buddy-strings) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Mritunjay021/leetcode_soln/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1508-longest-happy-prefix](https://github.com/Mritunjay021/leetcode_soln/tree/master/1508-longest-happy-prefix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
+| [0763-special-binary-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0763-special-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Mritunjay021/leetcode_soln/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
