@@ -11,34 +11,37 @@ public:
 
 class Solution {
 public:
-    Node* flatten(Node* head) {
-        Node* curr = head;
-        
-        while(curr != nullptr) 
+
+    Node* func(Node* head)
+    {
+        while(head->next)
+        head=head->next;
+
+        return head;
+    }
+
+    Node* flatten(Node* head) 
+    {
+        Node* curr=head;
+
+        while(curr)
         {
-            if(curr->child != nullptr) 
+            Node* next=curr->next;
+
+            if(curr->child)
             {
-                Node* next=curr->next;
-                Node* child = flatten(curr->child);
-
-                curr->next=child;
-                child->prev=curr;
-
-                Node * tail=child;
-                while(tail->next)
-                {
-                    tail=tail->next;
-                }
+                Node* chld=func(curr->child);
+                curr->next=curr->child;
+                curr->child->prev=curr;
                 if(next)
                 {
-                    tail->next=next;
-                    next->prev=tail;
+                    next->prev=chld;
+                chld->next=next;
                 }
-                curr->child=nullptr;
+                curr->child=NULL;
             }
-            curr = curr->next;
-        }
-        
-        return head;
+            curr=curr->next;
+        }   
+        return  head;
     }
 };
