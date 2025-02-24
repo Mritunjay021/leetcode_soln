@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mritunjay021/leetcode_soln/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Mritunjay021/leetcode_soln/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Mritunjay021/leetcode_soln/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mritunjay021/leetcode_soln/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mritunjay021/leetcode_soln/tree/master/0056-merge-intervals) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Mritunjay021/leetcode_soln/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Mritunjay021/leetcode_soln/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/Mritunjay021/leetcode_soln/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Mritunjay021/leetcode_soln/tree/master/0118-pascals-triangle) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Mritunjay021/leetcode_soln/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0234-palindrome-linked-list) |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mritunjay021/leetcode_soln/tree/master/0780-max-chunks-to-make-sorted) |
