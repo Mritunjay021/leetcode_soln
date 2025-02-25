@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mritunjay021/leetcode_soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mritunjay021/leetcode_soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mritunjay021/leetcode_soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/1646-kth-missing-positive-number) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [1791-richest-customer-wealth](https://github.com/Mritunjay021/leetcode_soln/tree/master/1791-richest-customer-wealth) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mritunjay021/leetcode_soln/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Mritunjay021/leetcode_soln/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/0747-min-cost-climbing-stairs) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay021/leetcode_soln/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
