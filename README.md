@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Mritunjay021/leetcode_soln/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Mritunjay021/leetcode_soln/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Mritunjay021/leetcode_soln/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Mritunjay021/leetcode_soln/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/Mritunjay021/leetcode_soln/tree/master/0649-dota2-senate) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/Mritunjay021/leetcode_soln/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0649-dota2-senate](https://github.com/Mritunjay021/leetcode_soln/tree/master/0649-dota2-senate) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
+| [0402-remove-k-digits](https://github.com/Mritunjay021/leetcode_soln/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mritunjay021/leetcode_soln/tree/master/0780-max-chunks-to-make-sorted) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Mritunjay021/leetcode_soln/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mritunjay021/leetcode_soln/tree/master/0780-max-chunks-to-make-sorted) |
