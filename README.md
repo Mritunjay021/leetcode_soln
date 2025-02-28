@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0763-special-binary-string) |
 | [0889-buddy-strings](https://github.com/Mritunjay021/leetcode_soln/tree/master/0889-buddy-strings) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Mritunjay021/leetcode_soln/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1170-shortest-common-supersequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1170-shortest-common-supersequence) |
 | [1508-longest-happy-prefix](https://github.com/Mritunjay021/leetcode_soln/tree/master/1508-longest-happy-prefix) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
+| [1170-shortest-common-supersequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay021/leetcode_soln/tree/master/2408-number-of-people-aware-of-a-secret) |
