@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/Mritunjay021/leetcode_soln/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Mritunjay021/leetcode_soln/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mritunjay021/leetcode_soln/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Mritunjay021/leetcode_soln/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/Mritunjay021/leetcode_soln/tree/master/0475-heaters) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/Mritunjay021/leetcode_soln/tree/master/0233-number-of-digit-one) |
 | [0367-valid-perfect-square](https://github.com/Mritunjay021/leetcode_soln/tree/master/0367-valid-perfect-square) |
