@@ -11,12 +11,23 @@
  */
 class Solution {
 public:
+
+    void func(TreeNode* root,int& mx,int ht)
+    {
+        if(!root)
+        {
+            mx=max(mx,ht);
+            return;
+        }
+
+        func(root->left,mx,1+ht);
+        func(root->right,mx,1+ht);
+    }
+
     int maxDepth(TreeNode* root) 
     {
-        if(root == NULL)
-        return 0;
-        int l=maxDepth(root->left) ;
-        int r=maxDepth(root->right);
-        return 1+max(l,r);   
+        int mx=INT_MIN;
+        func(root,mx,0);
+        return mx;   
     }
 };
