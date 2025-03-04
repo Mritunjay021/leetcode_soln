@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
 | [1170-shortest-common-supersequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1170-shortest-common-supersequence) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay021/leetcode_soln/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/Mritunjay021/leetcode_soln/tree/master/1493-frog-position-after-t-seconds) |
 ## Depth-First Search
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/Mritunjay021/leetcode_soln/tree/master/1493-frog-position-after-t-seconds) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/2121-find-if-path-exists-in-graph) |
 ## Iterator
@@ -460,11 +463,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0099-recover-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
