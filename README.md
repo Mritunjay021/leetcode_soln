@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0283-move-zeroes) |
+| [0413-arithmetic-slices](https://github.com/Mritunjay021/leetcode_soln/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/Mritunjay021/leetcode_soln/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/Mritunjay021/leetcode_soln/tree/master/0233-number-of-digit-one) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/Mritunjay021/leetcode_soln/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Mritunjay021/leetcode_soln/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/Mritunjay021/leetcode_soln/tree/master/0413-arithmetic-slices) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
