@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mritunjay021/leetcode_soln/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Mritunjay021/leetcode_soln/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay021/leetcode_soln/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2050-count-good-numbers) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Mritunjay021/leetcode_soln/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
