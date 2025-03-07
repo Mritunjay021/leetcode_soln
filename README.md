@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Mritunjay021/leetcode_soln/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Mritunjay021/leetcode_soln/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Mritunjay021/leetcode_soln/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0540-single-element-in-a-sorted-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Mritunjay021/leetcode_soln/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Mritunjay021/leetcode_soln/tree/master/0459-repeated-substring-pattern) |
 | [0468-validate-ip-address](https://github.com/Mritunjay021/leetcode_soln/tree/master/0468-validate-ip-address) |
+| [0474-ones-and-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/Mritunjay021/leetcode_soln/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Mritunjay021/leetcode_soln/tree/master/0657-robot-return-to-origin) |
 | [0763-special-binary-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0763-special-binary-string) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Mritunjay021/leetcode_soln/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/Mritunjay021/leetcode_soln/tree/master/0413-arithmetic-slices) |
+| [0474-ones-and-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0905-length-of-longest-fibonacci-subsequence) |
