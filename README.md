@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-alternating-groups-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mritunjay021/leetcode_soln/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-alternating-groups-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
