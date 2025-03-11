@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Mritunjay021/leetcode_soln/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Mritunjay021/leetcode_soln/tree/master/0233-number-of-digit-one) |
 | [0367-valid-perfect-square](https://github.com/Mritunjay021/leetcode_soln/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/0390-elimination-game) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mritunjay021/leetcode_soln/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Mritunjay021/leetcode_soln/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/0390-elimination-game) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Mritunjay021/leetcode_soln/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Merge Sort
