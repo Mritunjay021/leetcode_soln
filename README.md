@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/Mritunjay021/leetcode_soln/tree/master/0832-binary-tree-pruning) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0832-binary-tree-pruning](https://github.com/Mritunjay021/leetcode_soln/tree/master/0832-binary-tree-pruning) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/Mritunjay021/leetcode_soln/tree/master/0832-binary-tree-pruning) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
