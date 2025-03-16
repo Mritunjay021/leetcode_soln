@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mritunjay021/leetcode_soln/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Mritunjay021/leetcode_soln/tree/master/2665-minimum-time-to-repair-cars) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Mritunjay021/leetcode_soln/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Mritunjay021/leetcode_soln/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3643-zero-array-transformation-ii) |
 ## Enumeration
 |  |
