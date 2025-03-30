@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Mritunjay021/leetcode_soln/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/Mritunjay021/leetcode_soln/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0768-partition-labels](https://github.com/Mritunjay021/leetcode_soln/tree/master/0768-partition-labels) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mritunjay021/leetcode_soln/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mritunjay021/leetcode_soln/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/Mritunjay021/leetcode_soln/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/Mritunjay021/leetcode_soln/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Mritunjay021/leetcode_soln/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Mritunjay021/leetcode_soln/tree/master/0657-robot-return-to-origin) |
 | [0763-special-binary-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0763-special-binary-string) |
+| [0768-partition-labels](https://github.com/Mritunjay021/leetcode_soln/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/Mritunjay021/leetcode_soln/tree/master/0889-buddy-strings) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Mritunjay021/leetcode_soln/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1170-shortest-common-supersequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1170-shortest-common-supersequence) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Mritunjay021/leetcode_soln/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Mritunjay021/leetcode_soln/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/Mritunjay021/leetcode_soln/tree/master/0768-partition-labels) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mritunjay021/leetcode_soln/tree/master/0780-max-chunks-to-make-sorted) |
 | [1277-largest-multiple-of-three](https://github.com/Mritunjay021/leetcode_soln/tree/master/1277-largest-multiple-of-three) |
