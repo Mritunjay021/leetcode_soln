@@ -4,16 +4,19 @@ public:
     {
         long long mx=0;
         int n=nums.size();
+        int a=nums[0];
 
-        for(int i=0;i<n-2;i++)
+        vector<int> rm(n,-1);
+        rm[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;i--)
         {
-            for(int j=i+1;j<n-1;j++)
-            {
-                for(int k=j+1;k<n;k++)
-                {
-                    mx = max(mx, (long long)(nums[i] - nums[j]) * (long long)nums[k]);    
-                }
-            }
+            rm[i]=max(nums[i],rm[i+1]);
+        }
+
+        for(int i=1;i<n-1;i++)
+        {
+            mx = max(mx, (long long)(a - nums[i]) * (long long)rm[i+1]);
+            a=max(a,nums[i]);
         }    
 
         return mx;
