@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Mritunjay021/leetcode_soln/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Mritunjay021/leetcode_soln/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/Mritunjay021/leetcode_soln/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Mritunjay021/leetcode_soln/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Mritunjay021/leetcode_soln/tree/master/0091-decode-ways) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Mritunjay021/leetcode_soln/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/Mritunjay021/leetcode_soln/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Mritunjay021/leetcode_soln/tree/master/0118-pascals-triangle) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Mritunjay021/leetcode_soln/tree/master/0044-wildcard-matching) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Mritunjay021/leetcode_soln/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Mritunjay021/leetcode_soln/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mritunjay021/leetcode_soln/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Mritunjay021/leetcode_soln/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0206-reverse-linked-list) |
