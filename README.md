@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Mritunjay021/leetcode_soln/tree/master/0768-partition-labels) |
 | [0869-similar-string-groups](https://github.com/Mritunjay021/leetcode_soln/tree/master/0869-similar-string-groups) |
 | [0889-buddy-strings](https://github.com/Mritunjay021/leetcode_soln/tree/master/0889-buddy-strings) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Mritunjay021/leetcode_soln/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0832-binary-tree-pruning](https://github.com/Mritunjay021/leetcode_soln/tree/master/0832-binary-tree-pruning) |
 | [0869-similar-string-groups](https://github.com/Mritunjay021/leetcode_soln/tree/master/0869-similar-string-groups) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0869-similar-string-groups](https://github.com/Mritunjay021/leetcode_soln/tree/master/0869-similar-string-groups) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
 | [1493-frog-position-after-t-seconds](https://github.com/Mritunjay021/leetcode_soln/tree/master/1493-frog-position-after-t-seconds) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Mritunjay021/leetcode_soln/tree/master/0832-binary-tree-pruning) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
