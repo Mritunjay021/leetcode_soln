@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Mritunjay021/leetcode_soln/tree/master/2649-count-total-number-of-colored-cells) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Mritunjay021/leetcode_soln/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mritunjay021/leetcode_soln/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mritunjay021/leetcode_soln/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Dynamic Programming
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay021/leetcode_soln/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Trie
 |  |
 | ------- |
