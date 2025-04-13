@@ -3,6 +3,7 @@ public:
 
     int mod=1e9+7;
 
+    // logarithmic way to count exponent of a number
     long long func(long long x,long long n)
     {
         long long re=1;
