@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Mritunjay021/leetcode_soln/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Mritunjay021/leetcode_soln/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Mritunjay021/leetcode_soln/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mritunjay021/leetcode_soln/tree/master/0797-rabbits-in-forest) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Mritunjay021/leetcode_soln/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/Mritunjay021/leetcode_soln/tree/master/0797-rabbits-in-forest) |
 | [1277-largest-multiple-of-three](https://github.com/Mritunjay021/leetcode_soln/tree/master/1277-largest-multiple-of-three) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/Mritunjay021/leetcode_soln/tree/master/2249-count-the-hidden-sequences) |
