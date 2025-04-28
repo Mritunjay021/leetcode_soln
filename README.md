@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2308-divide-array-into-equal-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2478-longest-nice-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/2478-longest-nice-subarray) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/Mritunjay021/leetcode_soln/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3639-zero-array-transformation-i) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/1646-kth-missing-positive-number) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Mritunjay021/leetcode_soln/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Mritunjay021/leetcode_soln/tree/master/2665-minimum-time-to-repair-cars) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Mritunjay021/leetcode_soln/tree/master/0413-arithmetic-slices) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mritunjay021/leetcode_soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Mritunjay021/leetcode_soln/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mritunjay021/leetcode_soln/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/2478-longest-nice-subarray) |
