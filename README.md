@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mritunjay021/leetcode_soln/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mritunjay021/leetcode_soln/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/3548-find-the-count-of-good-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
