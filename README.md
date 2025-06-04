@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Mritunjay021/leetcode_soln/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay021/leetcode_soln/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Math
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3643-zero-array-transformation-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3850-equal-sum-grid-partition-ii) |
 ## String
 |  |
 | ------- |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3849-equal-sum-grid-partition-i) |
+| [3850-equal-sum-grid-partition-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3850-equal-sum-grid-partition-ii) |
 ## Number Theory
 |  |
 | ------- |
