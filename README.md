@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Mritunjay021/leetcode_soln/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3849-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Mritunjay021/leetcode_soln/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay021/leetcode_soln/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3849-equal-sum-grid-partition-i) |
 ## Math
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3643-zero-array-transformation-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3849-equal-sum-grid-partition-i) |
 ## String
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3849-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
 | ------- |
