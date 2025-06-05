@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Mritunjay021/leetcode_soln/tree/master/0869-similar-string-groups) |
 | [0889-buddy-strings](https://github.com/Mritunjay021/leetcode_soln/tree/master/0889-buddy-strings) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Mritunjay021/leetcode_soln/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1170-shortest-common-supersequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1170-shortest-common-supersequence) |
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mritunjay021/leetcode_soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0128-longest-consecutive-sequence) |
 | [0869-similar-string-groups](https://github.com/Mritunjay021/leetcode_soln/tree/master/0869-similar-string-groups) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/2121-find-if-path-exists-in-graph) |
 ## Combinatorics
