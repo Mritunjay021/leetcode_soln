@@ -1,51 +1,40 @@
 class Solution {
 public:
-    vector<vector<int>> floodFill(vector<vector<int>>& img, int sr, int sc, int color) 
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) 
     {
-        if(img[sr][sc]==color)
-        return img;
-        int n=img.size();
-        int m=img[0].size();
-        vector<vector<int>> grid(n,vector<int>(m));
-        grid[sr][sc]=color;
-        int vis[n][m];
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            vis[i][j]=0;
-        }
-        vis[sr][sc]=1;
-        int dr[]={-1,0,1,0};
-        int dc[]={0,1,0,-1};
+        int m=image.size();
+        int n=image[0].size();
+        
+        int clr=image[sr][sc];
+        
+        if(clr==color)
+        return image;
+
         queue<pair<int,int>> q;
-        q.push({sr,sc});
-        int clr=img[sr][sc];
+        q.push({sr,sc});  
+
+        vector<int> dr={-1,0,1,0};
+        vector<int> dc={0,1,0,-1};
+
         while(!q.empty())
         {
-            int row=q.front().first;
-            int col=q.front().second;
+            int x=q.front().first;
+            int y=q.front().second;
             q.pop();
+            image[x][y]=color;
+
             for(int i=0;i<4;i++)
             {
-                int nrow=row+dr[i];
-                int ncol=col+dc[i];
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && img[nrow][ncol]==clr && vis[nrow][ncol]==0)
+                int nx=x+dr[i];
+                int ny=y+dc[i];
+                if(nx>=0 && nx<m && ny>=0 && ny<n 
+                && image[nx][ny]==clr)
                 {
-                    grid[nrow][ncol]=color;
-                    q.push({nrow,ncol});
-                    vis[nrow][ncol]=1;
-                } 
+                    q.push({nx,ny});
+                }
             }
-        }
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(vis[i][j]==0)
-                grid[i][j]=img[i][j];
-            }
-        }
-        return grid;
+        } 
 
+        return image;
     }
 };
