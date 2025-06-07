@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mritunjay021/leetcode_soln/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mritunjay021/leetcode_soln/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mritunjay021/leetcode_soln/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-find-the-most-competitive-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mritunjay021/leetcode_soln/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
 |  |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Mritunjay021/leetcode_soln/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1792-find-the-most-competitive-subsequence) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mritunjay021/leetcode_soln/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mritunjay021/leetcode_soln/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Ordered Set
 |  |
 | ------- |
