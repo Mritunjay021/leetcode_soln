@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Mritunjay021/leetcode_soln/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Mritunjay021/leetcode_soln/tree/master/2649-count-total-number-of-colored-cells) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Mritunjay021/leetcode_soln/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mritunjay021/leetcode_soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mritunjay021/leetcode_soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mritunjay021/leetcode_soln/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
