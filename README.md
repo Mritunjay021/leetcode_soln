@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Mritunjay021/leetcode_soln/tree/master/0605-can-place-flowers) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Mritunjay021/leetcode_soln/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0898-transpose-matrix) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Mritunjay021/leetcode_soln/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/Mritunjay021/leetcode_soln/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mritunjay021/leetcode_soln/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/0747-min-cost-climbing-stairs) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0133-clone-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Mritunjay021/leetcode_soln/tree/master/0733-flood-fill) |
 | [0869-similar-string-groups](https://github.com/Mritunjay021/leetcode_soln/tree/master/0869-similar-string-groups) |
