@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [1791-richest-customer-wealth](https://github.com/Mritunjay021/leetcode_soln/tree/master/1791-richest-customer-wealth) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1876-map-of-highest-peak](https://github.com/Mritunjay021/leetcode_soln/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Mritunjay021/leetcode_soln/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay021/leetcode_soln/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Mritunjay021/leetcode_soln/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/Mritunjay021/leetcode_soln/tree/master/1104-coloring-a-border) |
 | [1791-richest-customer-wealth](https://github.com/Mritunjay021/leetcode_soln/tree/master/1791-richest-customer-wealth) |
+| [1876-map-of-highest-peak](https://github.com/Mritunjay021/leetcode_soln/tree/master/1876-map-of-highest-peak) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay021/leetcode_soln/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3849-equal-sum-grid-partition-i) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mritunjay021/leetcode_soln/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1493-frog-position-after-t-seconds](https://github.com/Mritunjay021/leetcode_soln/tree/master/1493-frog-position-after-t-seconds) |
+| [1876-map-of-highest-peak](https://github.com/Mritunjay021/leetcode_soln/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
