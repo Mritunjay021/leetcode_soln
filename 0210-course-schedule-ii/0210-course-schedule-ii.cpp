@@ -1,39 +1,51 @@
 class Solution {
 public:
-    vector<int> findOrder(int V, vector<vector<int>>& prerequisites) 
-    {
-        vector<int> adj[V];
-        for(auto it:prerequisites)
-        adj[it[1]].push_back(it[0]);
 
-        vector<int> ed(V,0);
-	   for(int i=0;i<V;i++)
-	   {
-	       for(auto it:adj[i])
-	        ed[it]++;
-	   }
-	   queue<int> q;
-	   for(int i=0;i<V;i++)
-	   {
-	       if(ed[i]==0)
-	       q.push(i);
-	   }
-	   vector<int> ans;
-	   while(!q.empty())
-	   {
-	       int node=q.front();
-	       q.pop();
-	       ans.push_back(node);
-	       for(auto it:adj[node])
-	       {
-	           ed[it]--;
-	           if(ed[it]==0)
-	           q.push(it);
-	       }
-	   }
-        if(ans.size()==V)
-        return ans;
-        else
-        return {};    
+    bool dfs(int i,vector<vector<int>>& adj,vector<int>& vis,vector<int>& pvis,vector<int>& res)
+    {
+        vis[i]=1;
+        pvis[i]=1;
+
+        for(auto it:adj[i])
+        {
+            if(!vis[it])
+            {
+                if(dfs(it,adj,vis,pvis,res))
+                return true;
+            }
+            else if(pvis[it])
+            return true;
+        }
+        pvis[i]=0;
+        res.push_back(i);
+        return false;
+    }
+
+    vector<int> findOrder(int n, vector<vector<int>>& pre) 
+    {
+        if(n==1)
+        return {0};
+
+        vector<int> vis(n,0);
+        vector<int> pvis(n,0);
+        vector<vector<int>> adj(n);
+        vector<int> res;
+        
+        for(int i=0;i<pre.size();i++)
+        {
+            adj[pre[i][1]].push_back(pre[i][0]);
+        }
+
+        for(int i=0;i<n;i++)
+        {
+            if(!vis[i])
+            {
+                if(dfs(i,adj,vis,pvis,res))
+                return {};
+            }
+        }
+
+        reverse(res.begin(),res.end());
+        return res;
     }
 };
