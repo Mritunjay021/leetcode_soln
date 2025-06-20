@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Mritunjay021/leetcode_soln/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Mritunjay021/leetcode_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Mritunjay021/leetcode_soln/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Mritunjay021/leetcode_soln/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Mritunjay021/leetcode_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Mritunjay021/leetcode_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay021/leetcode_soln/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mritunjay021/leetcode_soln/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -822,5 +825,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Mritunjay021/leetcode_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
