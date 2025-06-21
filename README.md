@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0310-minimum-height-trees) |
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Mritunjay021/leetcode_soln/tree/master/0733-flood-fill) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Mritunjay021/leetcode_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Mritunjay021/leetcode_soln/tree/master/0733-flood-fill) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Mritunjay021/leetcode_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0310-minimum-height-trees) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay021/leetcode_soln/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mritunjay021/leetcode_soln/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1493-frog-position-after-t-seconds](https://github.com/Mritunjay021/leetcode_soln/tree/master/1493-frog-position-after-t-seconds) |
@@ -832,4 +835,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Mritunjay021/leetcode_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
