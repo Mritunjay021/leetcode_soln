@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Mritunjay021/leetcode_soln/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Mritunjay021/leetcode_soln/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Mritunjay021/leetcode_soln/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay021/leetcode_soln/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/Mritunjay021/leetcode_soln/tree/master/0832-binary-tree-pruning) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mritunjay021/leetcode_soln/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/Mritunjay021/leetcode_soln/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay021/leetcode_soln/tree/master/1753-path-with-minimum-effort) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Mritunjay021/leetcode_soln/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Mritunjay021/leetcode_soln/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay021/leetcode_soln/tree/master/0801-is-graph-bipartite) |
 | [0869-similar-string-groups](https://github.com/Mritunjay021/leetcode_soln/tree/master/0869-similar-string-groups) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Mritunjay021/leetcode_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0310-minimum-height-trees) |
+| [0744-network-delay-time](https://github.com/Mritunjay021/leetcode_soln/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Mritunjay021/leetcode_soln/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mritunjay021/leetcode_soln/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1493-frog-position-after-t-seconds](https://github.com/Mritunjay021/leetcode_soln/tree/master/1493-frog-position-after-t-seconds) |
@@ -858,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Mritunjay021/leetcode_soln/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Mritunjay021/leetcode_soln/tree/master/0310-minimum-height-trees) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Mritunjay021/leetcode_soln/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
