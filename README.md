@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mritunjay021/leetcode_soln/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mritunjay021/leetcode_soln/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Mritunjay021/leetcode_soln/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay021/leetcode_soln/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mritunjay021/leetcode_soln/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mritunjay021/leetcode_soln/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
