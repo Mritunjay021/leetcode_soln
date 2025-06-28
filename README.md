@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mritunjay021/leetcode_soln/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Mritunjay021/leetcode_soln/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mritunjay021/leetcode_soln/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2206-detonate-the-maximum-bombs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/Mritunjay021/leetcode_soln/tree/master/2249-count-the-hidden-sequences) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-largest-multiple-of-three](https://github.com/Mritunjay021/leetcode_soln/tree/master/1277-largest-multiple-of-three) |
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mritunjay021/leetcode_soln/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Mritunjay021/leetcode_soln/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
 | [0744-network-delay-time](https://github.com/Mritunjay021/leetcode_soln/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay021/leetcode_soln/tree/master/1753-path-with-minimum-effort) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2868-continuous-subarrays) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Mritunjay021/leetcode_soln/tree/master/3209-minimum-number-of-coins-for-fruits) |
