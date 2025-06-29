@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mritunjay021/leetcode_soln/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mritunjay021/leetcode_soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Mritunjay021/leetcode_soln/tree/master/1656-count-good-triplets) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Mritunjay021/leetcode_soln/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0768-partition-labels](https://github.com/Mritunjay021/leetcode_soln/tree/master/0768-partition-labels) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mritunjay021/leetcode_soln/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mritunjay021/leetcode_soln/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-largest-multiple-of-three](https://github.com/Mritunjay021/leetcode_soln/tree/master/1277-largest-multiple-of-three) |
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mritunjay021/leetcode_soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mritunjay021/leetcode_soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mritunjay021/leetcode_soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay021/leetcode_soln/tree/master/1753-path-with-minimum-effort) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Mritunjay021/leetcode_soln/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
