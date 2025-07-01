@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mritunjay021/leetcode_soln/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Mritunjay021/leetcode_soln/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Mritunjay021/leetcode_soln/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Mritunjay021/leetcode_soln/tree/master/0456-132-pattern) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mritunjay021/leetcode_soln/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Mritunjay021/leetcode_soln/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mritunjay021/leetcode_soln/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mritunjay021/leetcode_soln/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Mritunjay021/leetcode_soln/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/0637-average-of-levels-in-binary-tree) |
