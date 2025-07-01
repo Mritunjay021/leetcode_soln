@@ -13,32 +13,38 @@ class Solution {
 public:
     int countNodes(TreeNode* root) 
     {
-        if(root==NULL)
+        if(!root)
         return 0;
-        int lh=fnc1(root);
-        int rh=fnc2(root);
+
+        int lh=fl(root);
+        int rh=fr(root);
         if(lh==rh)
         return (1<<lh)-1;
-        return 1+countNodes(root->left)+countNodes(root->right);    
+
+        return 1+ countNodes(root->left)+countNodes(root->right);   
     }
-    int fnc1(TreeNode* node)
+
+    int fl(TreeNode* root)
     {
-        int hg=0;
-        while(node)
+        int ht=0;
+        while(root)
         {
-            hg++;
-            node=node->left;
+            ht++;
+            root=root->left;
         }
-        return hg;
+        return ht;
     }
-    int fnc2(TreeNode* node)
+
+    int fr(TreeNode* root)
     {
-        int hg=0;
-        while(node)
+        int ht=0;
+        while(root)
         {
-            hg++;
-            node=node->right;
+            ht++;
+            root=root->right;
         }
-        return hg;
+        return ht;
     }
+
+
 };
