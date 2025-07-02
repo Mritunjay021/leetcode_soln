@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2308-divide-array-into-equal-pairs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay021/leetcode_soln/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mritunjay021/leetcode_soln/tree/master/3227-find-missing-and-repeated-values) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/Mritunjay021/leetcode_soln/tree/master/1493-frog-position-after-t-seconds) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay021/leetcode_soln/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay021/leetcode_soln/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2206-detonate-the-maximum-bombs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay021/leetcode_soln/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Iterator
 |  |
 | ------- |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Mritunjay021/leetcode_soln/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mritunjay021/leetcode_soln/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2206-detonate-the-maximum-bombs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay021/leetcode_soln/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -824,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1005-univalued-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/Mritunjay021/leetcode_soln/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Mritunjay021/leetcode_soln/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Mritunjay021/leetcode_soln/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
