@@ -1,21 +1,19 @@
 class Solution {
 public:
+
+    int count_ones(int n)
+    {
+        int re=0;
+        while(n)
+        {
+            n=n&(n-1);
+            re++;
+        }
+        return re;
+    }
+
     char kthCharacter(int k) 
     {
-        string s="a";
-
-        while(k>s.length())
-        {
-            string str="";
-            for(int i=0;i<s.length();i++)
-            {
-                if(s[i]=='z')
-                str+='a';
-                else
-                str+=char(s[i]+1);
-            }
-            s+=str;
-        }
-        return s[k-1];
+        return 'a'+count_ones(k-1);
     }
 };
