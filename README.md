@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mritunjay021/leetcode_soln/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Mritunjay021/leetcode_soln/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3905-partition-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/3905-partition-string) |
 ## Sorting
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mritunjay021/leetcode_soln/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3905-partition-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/3905-partition-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mritunjay021/leetcode_soln/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mritunjay021/leetcode_soln/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3905-partition-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/3905-partition-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Mritunjay021/leetcode_soln/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0140-word-break-ii) |
+| [3905-partition-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/3905-partition-string) |
 ## Memoization
 |  |
 | ------- |
