@@ -1,31 +1,55 @@
 class Solution {
 public:
-    vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) 
+
+    void func(vector<int>& mat,vector<vector<int>>& grid)
     {
         int n=grid.size();
-        vector<int> v(n*n,0);
 
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<n;j++)
             {
-                v[grid[i][j]-1]++;
+                mat.push_back(grid[i][j]);
             }
-        } 
+        }
+    }
 
-        int a,b;
-        for(int i=0;i<n*n;i++)
+    vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) 
+    {
+        vector<int> mat;
+
+        func(mat,grid);
+
+        int k=0,n=mat.size();
+
+        for(int i=0;i<n;i++)
         {
-            if(v[i]==2)
-            a=i+1;
-            else if(v[i]==0)
-            b=i+1;
+            k^=mat[i];
+            k^=i+1;
         }
 
-        vector<int> mp(2);
-        mp[0]=a;
-        mp[1]=b;
+        int setbit=k&~(k-1);
 
-        return mp;   
+        int x=0,y=0;
+
+        for(int i=0;i<n;i++)
+        {
+            if(setbit&mat[i])
+            x^=mat[i];
+            else
+            y^=mat[i];
+
+            if(setbit&(i+1))
+            x^=i+1;
+            else
+            y^=i+1;
+        }
+
+        for(int i=0;i<n;i++)
+        {
+            if(mat[i]==x)
+            return {x,y};
+        }
+        return {y,x};
     }
 };
