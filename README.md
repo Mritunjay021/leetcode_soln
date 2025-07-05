@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mritunjay021/leetcode_soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mritunjay021/leetcode_soln/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mritunjay021/leetcode_soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mritunjay021/leetcode_soln/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Mritunjay021/leetcode_soln/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mritunjay021/leetcode_soln/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/Mritunjay021/leetcode_soln/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Mritunjay021/leetcode_soln/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/2308-divide-array-into-equal-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mritunjay021/leetcode_soln/tree/master/3360-minimum-deletions-to-make-string-k-special) |
