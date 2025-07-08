@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mritunjay021/leetcode_soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mritunjay021/leetcode_soln/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay021/leetcode_soln/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mritunjay021/leetcode_soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Mritunjay021/leetcode_soln/tree/master/0780-max-chunks-to-make-sorted) |
 | [1277-largest-multiple-of-three](https://github.com/Mritunjay021/leetcode_soln/tree/master/1277-largest-multiple-of-three) |
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay021/leetcode_soln/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Mritunjay021/leetcode_soln/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Mritunjay021/leetcode_soln/tree/master/0797-rabbits-in-forest) |
 | [1277-largest-multiple-of-three](https://github.com/Mritunjay021/leetcode_soln/tree/master/1277-largest-multiple-of-three) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay021/leetcode_soln/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mritunjay021/leetcode_soln/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Mritunjay021/leetcode_soln/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
 | [0744-network-delay-time](https://github.com/Mritunjay021/leetcode_soln/tree/master/0744-network-delay-time) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay021/leetcode_soln/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/Mritunjay021/leetcode_soln/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Mritunjay021/leetcode_soln/tree/master/2449-maximum-number-of-robots-within-budget) |
