@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Mritunjay021/leetcode_soln/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Mritunjay021/leetcode_soln/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Mritunjay021/leetcode_soln/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/Mritunjay021/leetcode_soln/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Mritunjay021/leetcode_soln/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Mritunjay021/leetcode_soln/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mritunjay021/leetcode_soln/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Mritunjay021/leetcode_soln/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Mritunjay021/leetcode_soln/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mritunjay021/leetcode_soln/tree/master/0780-max-chunks-to-make-sorted) |
