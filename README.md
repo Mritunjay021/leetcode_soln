@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Mritunjay021/leetcode_soln/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/Mritunjay021/leetcode_soln/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Mritunjay021/leetcode_soln/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Mritunjay021/leetcode_soln/tree/master/0233-number-of-digit-one) |
 | [0396-rotate-function](https://github.com/Mritunjay021/leetcode_soln/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/Mritunjay021/leetcode_soln/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Mritunjay021/leetcode_soln/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0474-ones-and-zeroes) |
