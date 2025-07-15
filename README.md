@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mritunjay021/leetcode_soln/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mritunjay021/leetcode_soln/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0283-move-zeroes) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mritunjay021/leetcode_soln/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Mritunjay021/leetcode_soln/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Mritunjay021/leetcode_soln/tree/master/0233-number-of-digit-one) |
 | [0396-rotate-function](https://github.com/Mritunjay021/leetcode_soln/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
