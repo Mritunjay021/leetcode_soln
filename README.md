@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mritunjay021/leetcode_soln/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Mritunjay021/leetcode_soln/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mritunjay021/leetcode_soln/tree/master/0735-asteroid-collision) |
+| [0741-cherry-pickup](https://github.com/Mritunjay021/leetcode_soln/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0777-toeplitz-matrix) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mritunjay021/leetcode_soln/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Mritunjay021/leetcode_soln/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Mritunjay021/leetcode_soln/tree/master/0741-cherry-pickup) |
 | [0777-toeplitz-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Mritunjay021/leetcode_soln/tree/master/1036-rotting-oranges) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0542-01-matrix) |
 | [0688-knight-probability-in-chessboard](https://github.com/Mritunjay021/leetcode_soln/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mritunjay021/leetcode_soln/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0741-cherry-pickup](https://github.com/Mritunjay021/leetcode_soln/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/Mritunjay021/leetcode_soln/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Mritunjay021/leetcode_soln/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0905-length-of-longest-fibonacci-subsequence) |
