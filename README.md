@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mritunjay021/leetcode_soln/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mritunjay021/leetcode_soln/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1659-get-the-maximum-score](https://github.com/Mritunjay021/leetcode_soln/tree/master/1659-get-the-maximum-score) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Mritunjay021/leetcode_soln/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Mritunjay021/leetcode_soln/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Mritunjay021/leetcode_soln/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mritunjay021/leetcode_soln/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Mritunjay021/leetcode_soln/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Mritunjay021/leetcode_soln/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
