@@ -33,6 +33,7 @@ public:
             }
         }   
 
+        // it stores ki ye language kitne logo ko pta h toh sad me se max known lang nikal diya toh iska mtlb hua ki itne logo ko ye lang sikha di toh sb baat krlenge
         vector<int> langs(n+1,0);
         int ans=0;
 
