@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Mritunjay021/leetcode_soln/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Mritunjay021/leetcode_soln/tree/master/0403-frog-jump) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mritunjay021/leetcode_soln/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mritunjay021/leetcode_soln/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/0268-missing-number) |
 | [0475-heaters](https://github.com/Mritunjay021/leetcode_soln/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mritunjay021/leetcode_soln/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mritunjay021/leetcode_soln/tree/master/0594-longest-harmonious-subsequence) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mritunjay021/leetcode_soln/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mritunjay021/leetcode_soln/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Mritunjay021/leetcode_soln/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Mritunjay021/leetcode_soln/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Mritunjay021/leetcode_soln/tree/master/0233-number-of-digit-one) |
+| [0268-missing-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mritunjay021/leetcode_soln/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/Mritunjay021/leetcode_soln/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Mritunjay021/leetcode_soln/tree/master/0396-rotate-function) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mritunjay021/leetcode_soln/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Mritunjay021/leetcode_soln/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mritunjay021/leetcode_soln/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Mritunjay021/leetcode_soln/tree/master/0456-132-pattern) |
@@ -829,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Mritunjay021/leetcode_soln/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Mritunjay021/leetcode_soln/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/Mritunjay021/leetcode_soln/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mritunjay021/leetcode_soln/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mritunjay021/leetcode_soln/tree/master/0934-bitwise-ors-of-subarrays) |
