@@ -18,6 +18,6 @@ public:
             else
             l=m+1;
         }
-        return k+u+1;
+        return k+l;
     }
 };
