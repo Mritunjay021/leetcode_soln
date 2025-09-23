@@ -1,79 +1,36 @@
-// class Solution {
-// public:
-//     bool searchMatrix(vector<vector<int>>& matrix, int t)
-//     {
-//         // int m = mt.size();
-//         // int n = mt[0].size();
-
-//         // int l = 0, u = m - 1, c = -1;
-
-//         // while (l <= u)
-//         // {
-//         //     int md = (l + u) / 2;
-//         //     if (mt[md][0] == t)
-//         //         return true;
-//         //     else if (mt[md][0] > t)
-//         //         u = md - 1;
-//         //     else
-//         //     {
-//         //         c = md;
-//         //         l = md + 1;
-//         //     }
-//         // }
-
-//         // if (c == -1)
-//         //     return false;
-
-//         // l = 0;
-//         // u = n - 1;
-
-//         // while (l <= u)
-//         // {
-//         //     int md = (l + u) / 2;
-//         //     if (mt[c][md] == t)
-//         //         return true;
-//         //     else if (mt[c][md] > t)
-//         //         u = md - 1;
-//         //     else
-//         //         l = md + 1;
-//         // }
-
-//         // return false;
-//         int m = matrix.length, n = matrix[0].length;
-// int start = 0, end = m * n - 1;
-
-// while(start <= end) {
-// int mid = start + (end - start) / 2;
-// int row = mid / n, col = mid % n;
-// if(matrix[row][col] == target) return true;
-// else if(matrix[row][col] < target) start = mid + 1;
-// else end = mid - 1;
-// }
-// return false;
-//     }
-// };
-
-
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int m = matrix.size();         // Number of rows
-        int n = matrix[0].size();      // Number of columns
-        int start = 0, end = m * n - 1;
+    bool searchMatrix(vector<vector<int>>& mat, int tgt) 
+    {
+        int r=mat.size();
+        int c=mat[0].size();
+        
+        if(tgt<mat[0][0] || tgt>mat[r-1][c-1])
+        return 0;
 
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            int row = mid / n;         // Determine the row index
-            int col = mid % n;         // Determine the column index
+        int l=0,h=r-1;
 
-            if (matrix[row][col] == target) 
-                return true;           // Target found
-            else if (matrix[row][col] < target) 
-                start = mid + 1;       // Move right
-            else 
-                end = mid - 1;         // Move left
-        }
+        if(r>1)
+        {
+            while(l<=h)
+            {
+                int m=(l+h)/2;
 
-        return false;                  // Target not found
+                if(mat[m][0] == tgt)
+                return 1;
+
+                if(mat[m][0]<tgt)
+                l=m+1;
+                else
+                h=m-1;
+            }
+        } 
+        
+        int id=lower_bound(mat[h].begin(),mat[h].end(),tgt)-mat[h].begin();
+
+        if(id==c)
+        return 0;
+
+        return  mat[h][id]==tgt;
     }
 };
