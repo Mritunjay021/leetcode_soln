@@ -1,32 +1,53 @@
-
 class Solution {
 public:
-    int sign = 1;
-    long createAtoi(string& s, int i, long re) {
-        //cout << re << " ";
-        if (re * sign >= INT_MAX)
-            return INT_MAX;
-        if (re * sign <= INT_MIN)
-            return INT_MIN;
-        if (s[i] < '0' || s[i] > '9')
-            return re;
-        else
-            return createAtoi(s, i + 1, re * 10 + (s[i] - '0'));
-    }
-
-    long myAtoi(string s) {
-        long re = 0;
-        int i;
-        for (i = 0; i < s.size(); ++i) {
-            if (s[i] == ' ')
-                continue;
-            break;
+    int myAtoi(string s) {
+        if (s.empty()) {
+            return 0;
         }
-        if (s[i] == '-' || s[i] == '+') {
-            if (s[i] == '-')
-                sign = -1;
-            return createAtoi(s, i + 1, re) * (s[i] == '-' ? -1 : 1);
-        } else
-            return createAtoi(s, i, re);
+        
+        // Use standard library constants
+        const long long MAX_INT = INT_MAX;
+        const long long MIN_INT = INT_MIN;
+        
+        int i = 0;
+        int n = s.length();
+        
+        // Step 1: Skip leading whitespace
+        while (i < n && s[i] == ' ') {
+            i++;
+        }
+        
+        // Check if we've reached the end
+        if (i == n) {
+            return 0;
+        }
+        
+        // Step 2: Check for sign
+        int sign = 1;
+        if (s[i] == '+') {
+            i++;
+        } else if (s[i] == '-') {
+            sign = -1;
+            i++;
+        }
+        
+        // Step 3: Read digits and convert
+        long long res = 0;
+        while (i < n && isdigit(s[i])) {
+            int digit = s[i] - '0';
+            res = res * 10 + digit;
+            
+            if (sign * res <= INT_MIN) {
+                return INT_MIN;
+            }
+            if (sign * res >= INT_MAX) {
+                return INT_MAX;
+            }
+            
+            i++;
+        }
+        
+        // Step 4: Apply sign and return
+        return static_cast<int>(res * sign);     
     }
 };
