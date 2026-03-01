@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Mritunjay021/leetcode_soln/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay021/leetcode_soln/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mritunjay021/leetcode_soln/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Mritunjay021/leetcode_soln/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-cherry-pickup-ii](https://github.com/Mritunjay021/leetcode_soln/tree/master/1559-cherry-pickup-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mritunjay021/leetcode_soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Mritunjay021/leetcode_soln/tree/master/1308-smallest-string-with-swaps) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mritunjay021/leetcode_soln/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Mritunjay021/leetcode_soln/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Mritunjay021/leetcode_soln/tree/master/1552-magnetic-force-between-two-balls) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Mritunjay021/leetcode_soln/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mritunjay021/leetcode_soln/tree/master/2215-finding-3-digit-even-numbers) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Mritunjay021/leetcode_soln/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mritunjay021/leetcode_soln/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mritunjay021/leetcode_soln/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Mritunjay021/leetcode_soln/tree/master/1552-magnetic-force-between-two-balls) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mritunjay021/leetcode_soln/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mritunjay021/leetcode_soln/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Mritunjay021/leetcode_soln/tree/master/1646-kth-missing-positive-number) |
