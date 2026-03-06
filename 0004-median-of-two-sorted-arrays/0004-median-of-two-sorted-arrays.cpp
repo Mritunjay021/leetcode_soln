@@ -1,26 +1,38 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& n1, vector<int>& n2) 
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) 
     {
-        int m = n1.size(), n = n2.size();
-        int p1 = 0, p2 = 0;
-        int current = 0, previous = 0;
-        int totalSize = m + n;
-        int md = totalSize / 2;
+        if(nums2.size() < nums1.size())
+        return findMedianSortedArrays(nums2,nums1);
 
-        for (int i = 0; i <= md; i++) {
-            previous = current;
-            if (p1 < m && (p2 >= n || n1[p1] <= n2[p2])) {
-                current = n1[p1++];
-            } else {
-                current = n2[p2++];
+        int n1=nums1.size();
+        int n2=nums2.size();
+
+        int l=0,h=n1;
+
+        while(l<=h)
+        {
+            int c1=(l+h)/2;
+            int c2=(n1+n2+1)/2-c1;
+
+            int l1 = c1==0?INT_MIN:nums1[c1-1];
+            int l2 = c2==0?INT_MIN:nums2[c2-1];
+
+            int r1 = c1==n1?INT_MAX:nums1[c1];
+            int r2 = c2==n2?INT_MAX:nums2[c2];
+
+            if(l1<=r2 && l2<=r1)
+            {
+                if((n1+n2)%2==0)
+                return (max(l1,l2)+min(r1,r2))/2.0;
+                else
+                return max(l1,l2)/1.0;
             }
+            else if(l1>r2)
+            h=c1-1;
+            else
+            l=c1+1;
         }
-
-        if (totalSize % 2 == 0) {
-            return (current + previous) / 2.0;
-        } else {
-            return current;
-        }
-    }
+        return 0.0;
+    }   
 };
