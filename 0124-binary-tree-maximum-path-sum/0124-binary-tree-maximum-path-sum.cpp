@@ -12,20 +12,32 @@
 class Solution {
 public:
     int mx;
-    int func(TreeNode* root,int &mx)
+
+    int func(TreeNode* root)
     {
-        if(root==NULL)
+        if(!root)
         return 0;
-        int l=max(0,func(root->left,mx));
-        int r=max(0,func(root->right,mx));
-        mx=max(mx,root->val+l+r);
-        return root->val+max(l,r);
+
+        int lft=func(root->left);
+        int rgt=func(root->right);
+
+        mx=max(mx,root->val+lft+rgt);
+
+        if(root->val+max(lft,rgt)<0)
+        return 0;
+        else
+        return root->val+max(lft,rgt);
     }
 
     int maxPathSum(TreeNode* root) 
     {
-        int mx=INT_MIN;
-        func(root,mx);
-        return mx;    
+        if(!root)
+        return 0;
+
+        mx=root->val;
+
+        func(root);
+
+        return mx;
     }
 };
